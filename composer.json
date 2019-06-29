@@ -1,0 +1,7 @@
+{
+    "name": "martinh1981/calculadora",
+    "description": "\"Esto es una claculadora\"",
+    "require": {
+        "symfony/var-dumper": "^4.3"
+    }
+}
